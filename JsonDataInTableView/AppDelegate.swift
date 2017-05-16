@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  JsonDataInTableView
 //
-//  Created by Zeitech Solutions on 16/05/17.
+//  Created by Bansi bhatt on 16/05/17.
 //
 //
 
